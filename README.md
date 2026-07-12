@@ -1,4 +1,4 @@
-## -- https://jm11001.github.io/
+## 튼튼이's jm11001.github.io
 ---
 ☆♡♤♧ ..  
 <br>
