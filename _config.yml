@@ -11,9 +11,7 @@ plugins:
 
 minimal_mistakes_skin: "default"
 
-
 search: true
-
 
 category_archive:
   type: liquid
@@ -21,3 +19,8 @@ category_archive:
 tag_archive:
   type: liquid
   path: /tags/
+
+collections:
+  pages:
+    output: true
+    permalink: /:path/
